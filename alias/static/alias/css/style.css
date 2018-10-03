@@ -1,75 +1,75 @@
 @charset "UTF-8";
 /*------------------------------------------------------------------
 [Master Stylesheet]
-Project:	Admintres
+Project:  Admintres
 ++++ Imports ++++
 ++++ Reset ++++
 ++++ Basic ++++
 
-	++Effect 1: YouTube loading++
-	++typography++
-	++Buttons++
-	++Admin Basic++
-	++Form++
-	++Form-Wizard++
-	++Product Deatails*++
-	++Product Cart++	
-	++Popover++
-	++Typerhead++
-	++Editors++
-	++Accordion++
-	++Tabs++
-	++Table++
-	++Morris Chart++
-	++Flot Chart++
-	++Chartist++
-	++Easy pie chart++
-	++Skills Counter++
-	++Nestable++
-	++Treeview++
-	++Modals++
-	++sweet-alert++
-	++Notification++
-	++Tooltop++
-	++Icons++
-	++File Upload++
-	++File Manager++
-	++Carousel++
-	++Testimonial slider++
-	++Twitter slider++
-	++Range Slider++
-	++Gallery++
-	++Typography++
-	++Panel++
-	++Pricing Table++
-	++Dropdown++
-	++Weather++
-	++Sparkline++
-	++Pagination++
-	++Pager++
-	++Labels++
-	++Badge++
-	++Task Panel++
-	++Vecotor Map++
-	++Progressbar++
-	++Search Bar++
-	++Chat UI++	
-	++Widgets++
-	++Profile++
-	++Followers++
-	++Small Graph++
-	++Timeline++
-	++Caledar++
-	++Todo List++
-	++Activity++  
-	++Message Box++
-	++Inbox++
-	++Contact Cards++
-	++Contact List++
-	++Login Form++
-	++Error Page++
-	++Products++
-	++Cropperjs++
+  ++Effect 1: YouTube loading++
+  ++typography++
+  ++Buttons++
+  ++Admin Basic++
+  ++Form++
+  ++Form-Wizard++
+  ++Product Deatails*++
+  ++Product Cart++  
+  ++Popover++
+  ++Typerhead++
+  ++Editors++
+  ++Accordion++
+  ++Tabs++
+  ++Table++
+  ++Morris Chart++
+  ++Flot Chart++
+  ++Chartist++
+  ++Easy pie chart++
+  ++Skills Counter++
+  ++Nestable++
+  ++Treeview++
+  ++Modals++
+  ++sweet-alert++
+  ++Notification++
+  ++Tooltop++
+  ++Icons++
+  ++File Upload++
+  ++File Manager++
+  ++Carousel++
+  ++Testimonial slider++
+  ++Twitter slider++
+  ++Range Slider++
+  ++Gallery++
+  ++Typography++
+  ++Panel++
+  ++Pricing Table++
+  ++Dropdown++
+  ++Weather++
+  ++Sparkline++
+  ++Pagination++
+  ++Pager++
+  ++Labels++
+  ++Badge++
+  ++Task Panel++
+  ++Vecotor Map++
+  ++Progressbar++
+  ++Search Bar++
+  ++Chat UI++ 
+  ++Widgets++
+  ++Profile++
+  ++Followers++
+  ++Small Graph++
+  ++Timeline++
+  ++Caledar++
+  ++Todo List++
+  ++Activity++  
+  ++Message Box++
+  ++Inbox++
+  ++Contact Cards++
+  ++Contact List++
+  ++Login Form++
+  ++Error Page++
+  ++Products++
+  ++Cropperjs++
 
 ++++ Mediaqueries ++++
 -------------------------------------------------------------------*/
@@ -632,7 +632,7 @@ code {
   background: #00acf0 !important; }
 
 .bg-orange {
-  background: #ff6028 !important; }
+  background: #a90a30 !important; }
 
 .bg-orange-light-1 {
   background: #ff936d !important; }
@@ -715,7 +715,7 @@ code {
   color: #7a5449 !important; }
 
 .txt-orange {
-  color: #ff6028 !important; }
+  color: #a90a30 !important; }
 
 .txt-orange-light-1 {
   color: #ff936d; }
@@ -1027,8 +1027,8 @@ button.fc-agendaWeek-button, .fc-prev-button, .fc-next-button, .fc-today-button 
   .owl-theme .owl-nav button[class*="owl-"].fc-agendaWeek-button, button.fc-agendaDay-button.fc-state-default.fc-corner-right,
   button.fc-month-button.fc-state-default.fc-corner-left,
   button.fc-agendaWeek-button, .btn-orange.fc-prev-button, .btn-orange.fc-next-button, .btn-orange.fc-today-button {
-    background: #ff6028;
-    border: solid 1px #ff6028; }
+    background: #a90a30;
+    border: solid 1px #a90a30; }
     .btn.btn-orange:hover, .fixed-sidebar-left .side-nav > li > a.btn-orange.documentation-btn:hover, .fixed-sidebar-left .dt-buttons .side-nav > li > a.documentation-btn.dt-button:hover, .dt-buttons .fixed-sidebar-left .side-nav > li > a.documentation-btn.dt-button:hover, .wizard > .actions a.btn-orange:hover, .wizard > .actions .dt-buttons a.dt-button:hover:active, .dt-buttons .wizard > .actions a.dt-button:hover:active, .dt-buttons .dt-button:hover, .tablesaw-sortable th.tablesaw-sortable-head button.btn-orange:hover,
     .tablesaw-sortable th.tablesaw-sortable-head button.fc-agendaWeek-button:hover, .sweet-alert button.btn-orange:hover, .owl-theme .owl-nav .btn-orange[class*="owl-"]:hover,
     .owl-theme .owl-nav button[class*="owl-"].fc-agendaWeek-button:hover, button.fc-agendaDay-button.fc-state-default.fc-corner-right:hover,
@@ -1495,7 +1495,7 @@ button.fc-agendaWeek-button, .fc-prev-button, .fc-next-button, .fc-today-button 
     button.fc-today-button.fc-month-button.fc-state-default.fc-corner-left,
     button.fc-today-button.fc-agendaWeek-button {
       border: solid 1px rgba(255, 96, 40, 0.5);
-      color: #ff6028; }
+      color: #a90a30; }
       .btn.btn-outline.btn-orange:hover, .fixed-sidebar-left .side-nav > li > a.btn-outline.btn-orange.documentation-btn:hover, .fixed-sidebar-left ul.wysihtml5-toolbar .side-nav > li > a.btn-orange.documentation-btn.btn:hover, ul.wysihtml5-toolbar .fixed-sidebar-left .side-nav > li > a.btn-orange.documentation-btn.btn:hover, .fixed-sidebar-left ul.wysihtml5-toolbar .dt-buttons .side-nav > li > a.documentation-btn.dt-button:hover, ul.wysihtml5-toolbar .dt-buttons .fixed-sidebar-left .side-nav > li > a.documentation-btn.dt-button:hover, .fixed-sidebar-left .dt-buttons ul.wysihtml5-toolbar .side-nav > li > a.documentation-btn.dt-button:hover, .dt-buttons ul.wysihtml5-toolbar .fixed-sidebar-left .side-nav > li > a.documentation-btn.dt-button:hover, .fixed-sidebar-left .note-editor .side-nav > li > a.btn-orange.documentation-btn.note-btn.btn-sm:hover, .note-editor .fixed-sidebar-left .side-nav > li > a.btn-orange.documentation-btn.note-btn.btn-sm:hover, .fixed-sidebar-left .note-editor .wizard > .actions .side-nav > li > a.btn-orange.documentation-btn.note-btn:hover, .note-editor .wizard > .actions .fixed-sidebar-left .side-nav > li > a.btn-orange.documentation-btn.note-btn:hover, .fixed-sidebar-left .wizard > .actions .note-editor .side-nav > li > a.btn-orange.documentation-btn.note-btn:hover, .wizard > .actions .note-editor .fixed-sidebar-left .side-nav > li > a.btn-orange.documentation-btn.note-btn:hover, .fixed-sidebar-left .note-editor .wizard > .actions .dt-buttons .side-nav > li > a.documentation-btn.note-btn.dt-button:hover, .note-editor .wizard > .actions .dt-buttons .fixed-sidebar-left .side-nav > li > a.documentation-btn.note-btn.dt-button:hover, .fixed-sidebar-left .wizard > .actions .dt-buttons .note-editor .side-nav > li > a.documentation-btn.note-btn.dt-button:hover, .wizard > .actions .dt-buttons .note-editor .fixed-sidebar-left .side-nav > li > a.documentation-btn.note-btn.dt-button:hover, .fixed-sidebar-left .note-editor .dt-buttons .wizard > .actions .side-nav > li > a.documentation-btn.note-btn.dt-button:hover, .note-editor .dt-buttons .wizard > .actions .fixed-sidebar-left .side-nav > li > a.documentation-btn.note-btn.dt-button:hover, .fixed-sidebar-left .dt-buttons .wizard > .actions .note-editor .side-nav > li > a.documentation-btn.note-btn.dt-button:hover, .dt-buttons .wizard > .actions .note-editor .fixed-sidebar-left .side-nav > li > a.documentation-btn.note-btn.dt-button:hover, .fixed-sidebar-left .note-editor .dt-buttons .side-nav > li > a.documentation-btn.note-btn.btn-sm.dt-button:hover, .note-editor .dt-buttons .fixed-sidebar-left .side-nav > li > a.documentation-btn.note-btn.btn-sm.dt-button:hover, .fixed-sidebar-left .dt-buttons .note-editor .side-nav > li > a.documentation-btn.note-btn.btn-sm.dt-button:hover, .dt-buttons .note-editor .fixed-sidebar-left .side-nav > li > a.documentation-btn.note-btn.btn-sm.dt-button:hover, .fixed-sidebar-left .dt-buttons .side-nav > li > a.btn-outline.documentation-btn.dt-button:hover, .dt-buttons .fixed-sidebar-left .side-nav > li > a.btn-outline.documentation-btn.dt-button:hover, .fixed-sidebar-left .dt-buttons .note-editor .wizard > .actions .side-nav > li > a.documentation-btn.dt-button.note-btn:hover, .dt-buttons .note-editor .wizard > .actions .fixed-sidebar-left .side-nav > li > a.documentation-btn.dt-button.note-btn:hover, .fixed-sidebar-left .wizard > .actions .note-editor .dt-buttons .side-nav > li > a.documentation-btn.dt-button.note-btn:hover, .wizard > .actions .note-editor .dt-buttons .fixed-sidebar-left .side-nav > li > a.documentation-btn.dt-button.note-btn:hover, .wizard > .actions .disabled a.btn-outline.btn-orange:hover, .wizard > .actions .disabled ul.wysihtml5-toolbar a.btn-orange.btn:hover, ul.wysihtml5-toolbar .wizard > .actions .disabled a.btn-orange.btn:hover, .wizard > .actions .disabled ul.wysihtml5-toolbar .dt-buttons a.dt-button:hover, ul.wysihtml5-toolbar .dt-buttons .wizard > .actions .disabled a.dt-button:hover, .wizard > .actions .disabled .dt-buttons ul.wysihtml5-toolbar a.dt-button:hover, .dt-buttons ul.wysihtml5-toolbar .wizard > .actions .disabled a.dt-button:hover, .note-editor .wizard > .actions .disabled a.btn-orange.note-btn:hover, .wizard > .actions .disabled .note-editor a.btn-orange.note-btn:hover, .wizard > .actions .note-editor .disabled a.btn-orange.note-btn:hover, .note-editor .wizard > .actions .disabled .dt-buttons a.note-btn.dt-button:hover, .note-editor .wizard > .actions .dt-buttons .disabled a.note-btn.dt-button:hover, .wizard > .actions .disabled .dt-buttons .note-editor a.note-btn.dt-button:hover, .wizard > .actions .dt-buttons .note-editor .disabled a.note-btn.dt-button:hover, .note-editor .dt-buttons .wizard > .actions .disabled a.note-btn.dt-button:hover, .dt-buttons .wizard > .actions .disabled .note-editor a.note-btn.dt-button:hover, .dt-buttons .wizard > .actions .note-editor .disabled a.note-btn.dt-button:hover, .wizard > .actions .disabled .dt-buttons a.btn-outline.dt-button:hover, .dt-buttons .wizard > .actions .disabled a.btn-outline.dt-button:hover, .dt-buttons .note-editor .wizard > .actions .disabled a.dt-button.note-btn:hover, .wizard > .actions .disabled .note-editor .dt-buttons a.dt-button.note-btn:hover, .wizard > .actions .note-editor .dt-buttons .disabled a.dt-button.note-btn:hover, .wizard > .actions .disabled a.btn-outline.btn-orange:hover:active, .wizard > .actions .disabled ul.wysihtml5-toolbar a.btn-orange.btn:hover:active, ul.wysihtml5-toolbar .wizard > .actions .disabled a.btn-orange.btn:hover:active, .wizard > .actions .disabled ul.wysihtml5-toolbar .dt-buttons a.dt-button:hover:active, ul.wysihtml5-toolbar .dt-buttons .wizard > .actions .disabled a.dt-button:hover:active, .wizard > .actions .disabled .dt-buttons ul.wysihtml5-toolbar a.dt-button:hover:active, .dt-buttons ul.wysihtml5-toolbar .wizard > .actions .disabled a.dt-button:hover:active, .note-editor .wizard > .actions .disabled a.btn-orange.note-btn:hover:active, .wizard > .actions .disabled .note-editor a.btn-orange.note-btn:hover:active, .wizard > .actions .note-editor .disabled a.btn-orange.note-btn:hover:active, .note-editor .wizard > .actions .disabled .dt-buttons a.note-btn.dt-button:hover:active, .note-editor .wizard > .actions .dt-buttons .disabled a.note-btn.dt-button:hover:active, .wizard > .actions .disabled .dt-buttons .note-editor a.note-btn.dt-button:hover:active, .wizard > .actions .dt-buttons .note-editor .disabled a.note-btn.dt-button:hover:active, .note-editor .dt-buttons .wizard > .actions .disabled a.note-btn.dt-button:hover:active, .dt-buttons .wizard > .actions .disabled .note-editor a.note-btn.dt-button:hover:active, .dt-buttons .wizard > .actions .note-editor .disabled a.note-btn.dt-button:hover:active, .wizard > .actions .disabled .dt-buttons a.btn-outline.dt-button:hover:active, .dt-buttons .wizard > .actions .disabled a.btn-outline.dt-button:hover:active, .dt-buttons .note-editor .wizard > .actions .disabled a.dt-button.note-btn:hover:active, .wizard > .actions .disabled .note-editor .dt-buttons a.dt-button.note-btn:hover:active, .wizard > .actions .note-editor .dt-buttons .disabled a.dt-button.note-btn:hover:active, .wizard > .actions a.btn-outline.btn-orange:hover, .wizard > .actions ul.wysihtml5-toolbar a.btn-orange.btn:hover, ul.wysihtml5-toolbar .wizard > .actions a.btn-orange.btn:hover, .wizard > .actions ul.wysihtml5-toolbar .dt-buttons a.dt-button:hover, ul.wysihtml5-toolbar .dt-buttons .wizard > .actions a.dt-button:hover, .wizard > .actions .dt-buttons ul.wysihtml5-toolbar a.dt-button:hover, .dt-buttons ul.wysihtml5-toolbar .wizard > .actions a.dt-button:hover, .note-editor .wizard > .actions a.btn-orange.note-btn:hover, .wizard > .actions .note-editor a.btn-orange.note-btn:hover, .note-editor .wizard > .actions .dt-buttons a.note-btn.dt-button:hover, .wizard > .actions .dt-buttons .note-editor a.note-btn.dt-button:hover, .note-editor .dt-buttons .wizard > .actions a.note-btn.dt-button:hover, .dt-buttons .wizard > .actions .note-editor a.note-btn.dt-button:hover, .wizard > .actions .dt-buttons a.btn-outline.dt-button:hover, .dt-buttons .wizard > .actions a.btn-outline.dt-button:hover, .dt-buttons .note-editor .wizard > .actions a.dt-button.note-btn:hover, .wizard > .actions .note-editor .dt-buttons a.dt-button.note-btn:hover, .wizard > .actions a.btn-outline.btn-orange:hover:active, .wizard > .actions ul.wysihtml5-toolbar a.btn-orange.btn:hover:active, ul.wysihtml5-toolbar .wizard > .actions a.btn-orange.btn:hover:active, .wizard > .actions ul.wysihtml5-toolbar .dt-buttons a.dt-button:hover:active, ul.wysihtml5-toolbar .dt-buttons .wizard > .actions a.dt-button:hover:active, .wizard > .actions .dt-buttons ul.wysihtml5-toolbar a.dt-button:hover:active, .dt-buttons ul.wysihtml5-toolbar .wizard > .actions a.dt-button:hover:active, .note-editor .wizard > .actions a.btn-orange.note-btn:hover:active, .wizard > .actions .note-editor a.btn-orange.note-btn:hover:active, .note-editor .wizard > .actions .dt-buttons a.note-btn.dt-button:hover:active, .wizard > .actions .dt-buttons .note-editor a.note-btn.dt-button:hover:active, .note-editor .dt-buttons .wizard > .actions a.note-btn.dt-button:hover:active, .dt-buttons .wizard > .actions .note-editor a.note-btn.dt-button:hover:active, .wizard > .actions .dt-buttons a.btn-outline.dt-button:hover:active, .dt-buttons .wizard > .actions a.btn-outline.dt-button:hover:active, .dt-buttons .note-editor .wizard > .actions a.dt-button.note-btn:hover:active, .wizard > .actions .note-editor .dt-buttons a.dt-button.note-btn:hover:active, ul.wysihtml5-toolbar a.btn.btn-orange:hover, ul.wysihtml5-toolbar .fixed-sidebar-left .side-nav > li > a.btn-orange.documentation-btn:hover, .fixed-sidebar-left ul.wysihtml5-toolbar .side-nav > li > a.btn-orange.documentation-btn:hover, ul.wysihtml5-toolbar .wizard > .actions a.btn-orange:hover, .wizard > .actions ul.wysihtml5-toolbar a.btn-orange:hover, ul.wysihtml5-toolbar .dt-buttons a.dt-button:hover, .dt-buttons ul.wysihtml5-toolbar a.dt-button:hover, ul.wysihtml5-toolbar .owl-theme .owl-nav a.btn-orange[class*="owl-"]:hover, .owl-theme .owl-nav ul.wysihtml5-toolbar a.btn-orange[class*="owl-"]:hover, ul.wysihtml5-toolbar a.btn-orange.fc-prev-button:hover, ul.wysihtml5-toolbar a.btn-orange.fc-next-button:hover, ul.wysihtml5-toolbar a.btn-orange.fc-today-button:hover, .note-editor .btn.btn-orange.note-btn.btn-sm:hover, .note-editor .dt-buttons .note-btn.btn-sm.dt-button:hover, .dt-buttons .note-editor .note-btn.btn-sm.dt-button:hover, .note-editor .tablesaw-sortable th.tablesaw-sortable-head button.btn-orange.note-btn.btn-sm:hover, .tablesaw-sortable th.tablesaw-sortable-head .note-editor button.btn-orange.note-btn.btn-sm:hover, .note-editor .sweet-alert button.btn-orange.note-btn.btn-sm:hover, .sweet-alert .note-editor button.btn-orange.note-btn.btn-sm:hover, .note-editor .owl-theme .owl-nav .btn-orange.note-btn.btn-sm[class*="owl-"]:hover, .owl-theme .owl-nav .note-editor .btn-orange.note-btn.btn-sm[class*="owl-"]:hover, .note-editor button.note-btn.btn-sm.fc-agendaDay-button.fc-state-default.fc-corner-right:hover,
       .note-editor button.note-btn.btn-sm.fc-month-button.fc-state-default.fc-corner-left:hover,
       .note-editor button.note-btn.btn-sm.fc-agendaWeek-button:hover, .note-editor .btn-orange.note-btn.btn-sm.fc-prev-button:hover, .note-editor .btn-orange.note-btn.btn-sm.fc-next-button:hover, .note-editor .btn-orange.note-btn.btn-sm.fc-today-button:hover, .dt-buttons .btn-outline.dt-button:hover, .dt-buttons .tablesaw-sortable th.tablesaw-sortable-head button.dt-button:hover, .tablesaw-sortable th.tablesaw-sortable-head .dt-buttons button.dt-button:hover, .dt-buttons button.dt-button.fc-agendaDay-button.fc-state-default.fc-corner-right:hover,
@@ -1551,8 +1551,8 @@ button.fc-agendaWeek-button, .fc-prev-button, .fc-next-button, .fc-today-button 
       button.fc-next-button.fc-agendaWeek-button:focus, .btn-outline.btn-orange.fc-today-button:focus, ul.wysihtml5-toolbar a.btn-orange.fc-today-button.btn:focus, ul.wysihtml5-toolbar .dt-buttons a.fc-today-button.dt-button:focus, .dt-buttons ul.wysihtml5-toolbar a.fc-today-button.dt-button:focus, .note-editor .wizard > .actions a.btn-orange.fc-today-button.note-btn:focus, .wizard > .actions .note-editor a.btn-orange.fc-today-button.note-btn:focus, .note-editor .wizard > .actions .dt-buttons a.fc-today-button.note-btn.dt-button:focus, .wizard > .actions .dt-buttons .note-editor a.fc-today-button.note-btn.dt-button:focus, .note-editor .dt-buttons .wizard > .actions a.fc-today-button.note-btn.dt-button:focus, .dt-buttons .wizard > .actions .note-editor a.fc-today-button.note-btn.dt-button:focus, .note-editor .dt-buttons .fc-today-button.note-btn.btn-sm.dt-button:focus, .dt-buttons .note-editor .fc-today-button.note-btn.btn-sm.dt-button:focus, .dt-buttons .btn-outline.fc-today-button.dt-button:focus, .dt-buttons .note-editor .wizard > .actions a.fc-today-button.dt-button.note-btn:focus, .wizard > .actions .note-editor .dt-buttons a.fc-today-button.dt-button.note-btn:focus, .dt-buttons .tablesaw-sortable th.tablesaw-sortable-head button.fc-today-button.dt-button:focus, .tablesaw-sortable th.tablesaw-sortable-head .dt-buttons button.fc-today-button.dt-button:focus, .tablesaw-sortable th.tablesaw-sortable-head button.btn-orange.fc-today-button:focus, button.fc-today-button.fc-agendaDay-button.fc-state-default.fc-corner-right:focus,
       button.fc-today-button.fc-month-button.fc-state-default.fc-corner-left:focus,
       button.fc-today-button.fc-agendaWeek-button:focus {
-        border: solid 1px #ff6028;
-        color: #ff6028; }
+        border: solid 1px #a90a30;
+        color: #a90a30; }
     .btn.btn-outline.btn-orange-light-1, .fixed-sidebar-left .side-nav > li > a.btn-outline.btn-orange-light-1.documentation-btn, .fixed-sidebar-left ul.wysihtml5-toolbar .side-nav > li > a.btn-orange-light-1.documentation-btn.btn, ul.wysihtml5-toolbar .fixed-sidebar-left .side-nav > li > a.btn-orange-light-1.documentation-btn.btn, .fixed-sidebar-left .note-editor .side-nav > li > a.btn-orange-light-1.documentation-btn.note-btn.btn-sm, .note-editor .fixed-sidebar-left .side-nav > li > a.btn-orange-light-1.documentation-btn.note-btn.btn-sm, .fixed-sidebar-left .note-editor .wizard > .actions .side-nav > li > a.btn-orange-light-1.documentation-btn.note-btn, .note-editor .wizard > .actions .fixed-sidebar-left .side-nav > li > a.btn-orange-light-1.documentation-btn.note-btn, .fixed-sidebar-left .wizard > .actions .note-editor .side-nav > li > a.btn-orange-light-1.documentation-btn.note-btn, .wizard > .actions .note-editor .fixed-sidebar-left .side-nav > li > a.btn-orange-light-1.documentation-btn.note-btn, .wizard > .actions .disabled a.btn-outline.btn-orange-light-1, .wizard > .actions .disabled ul.wysihtml5-toolbar a.btn-orange-light-1.btn, ul.wysihtml5-toolbar .wizard > .actions .disabled a.btn-orange-light-1.btn, .note-editor .wizard > .actions .disabled a.btn-orange-light-1.note-btn, .wizard > .actions .disabled .note-editor a.btn-orange-light-1.note-btn, .wizard > .actions .note-editor .disabled a.btn-orange-light-1.note-btn, .wizard > .actions .disabled a.btn-outline.btn-orange-light-1:hover, .wizard > .actions .disabled ul.wysihtml5-toolbar a.btn-orange-light-1.btn:hover, ul.wysihtml5-toolbar .wizard > .actions .disabled a.btn-orange-light-1.btn:hover, .note-editor .wizard > .actions .disabled a.btn-orange-light-1.note-btn:hover, .wizard > .actions .disabled .note-editor a.btn-orange-light-1.note-btn:hover, .wizard > .actions .note-editor .disabled a.btn-orange-light-1.note-btn:hover, .wizard > .actions .disabled a.btn-outline.btn-orange-light-1:active, .wizard > .actions .disabled ul.wysihtml5-toolbar a.btn-orange-light-1.btn:active, ul.wysihtml5-toolbar .wizard > .actions .disabled a.btn-orange-light-1.btn:active, .note-editor .wizard > .actions .disabled a.btn-orange-light-1.note-btn:active, .wizard > .actions .disabled .note-editor a.btn-orange-light-1.note-btn:active, .wizard > .actions .note-editor .disabled a.btn-orange-light-1.note-btn:active, .wizard > .actions a.btn-outline.btn-orange-light-1, .wizard > .actions ul.wysihtml5-toolbar a.btn-orange-light-1.btn, ul.wysihtml5-toolbar .wizard > .actions a.btn-orange-light-1.btn, .note-editor .wizard > .actions a.btn-orange-light-1.note-btn, .wizard > .actions .note-editor a.btn-orange-light-1.note-btn, .wizard > .actions a.btn-outline.btn-orange-light-1:hover, .wizard > .actions ul.wysihtml5-toolbar a.btn-orange-light-1.btn:hover, ul.wysihtml5-toolbar .wizard > .actions a.btn-orange-light-1.btn:hover, .note-editor .wizard > .actions a.btn-orange-light-1.note-btn:hover, .wizard > .actions .note-editor a.btn-orange-light-1.note-btn:hover, .wizard > .actions a.btn-outline.btn-orange-light-1:active, .wizard > .actions ul.wysihtml5-toolbar a.btn-orange-light-1.btn:active, ul.wysihtml5-toolbar .wizard > .actions a.btn-orange-light-1.btn:active, .note-editor .wizard > .actions a.btn-orange-light-1.note-btn:active, .wizard > .actions .note-editor a.btn-orange-light-1.note-btn:active, ul.wysihtml5-toolbar a.btn.btn-orange-light-1, ul.wysihtml5-toolbar .fixed-sidebar-left .side-nav > li > a.btn-orange-light-1.documentation-btn, .fixed-sidebar-left ul.wysihtml5-toolbar .side-nav > li > a.btn-orange-light-1.documentation-btn, ul.wysihtml5-toolbar .wizard > .actions a.btn-orange-light-1, .wizard > .actions ul.wysihtml5-toolbar a.btn-orange-light-1, ul.wysihtml5-toolbar .dt-buttons a.btn-orange-light-1.dt-button, .dt-buttons ul.wysihtml5-toolbar a.btn-orange-light-1.dt-button, ul.wysihtml5-toolbar .owl-theme .owl-nav a.btn-orange-light-1[class*="owl-"], .owl-theme .owl-nav ul.wysihtml5-toolbar a.btn-orange-light-1[class*="owl-"], ul.wysihtml5-toolbar a.btn-orange-light-1.fc-prev-button, ul.wysihtml5-toolbar a.btn-orange-light-1.fc-next-button, ul.wysihtml5-toolbar a.btn-orange-light-1.fc-today-button, .note-editor .btn.btn-orange-light-1.note-btn.btn-sm, .note-editor .dt-buttons .btn-orange-light-1.note-btn.btn-sm.dt-button, .dt-buttons .note-editor .btn-orange-light-1.note-btn.btn-sm.dt-button, .note-editor .tablesaw-sortable th.tablesaw-sortable-head button.btn-orange-light-1.note-btn.btn-sm, .tablesaw-sortable th.tablesaw-sortable-head .note-editor button.btn-orange-light-1.note-btn.btn-sm, .note-editor .sweet-alert button.btn-orange-light-1.note-btn.btn-sm, .sweet-alert .note-editor button.btn-orange-light-1.note-btn.btn-sm, .note-editor .owl-theme .owl-nav .btn-orange-light-1.note-btn.btn-sm[class*="owl-"], .owl-theme .owl-nav .note-editor .btn-orange-light-1.note-btn.btn-sm[class*="owl-"], .note-editor button.btn-orange-light-1.note-btn.btn-sm.fc-agendaDay-button.fc-state-default.fc-corner-right,
     .note-editor button.btn-orange-light-1.note-btn.btn-sm.fc-month-button.fc-state-default.fc-corner-left,
     .note-editor button.btn-orange-light-1.note-btn.btn-sm.fc-agendaWeek-button, .note-editor .btn-orange-light-1.note-btn.btn-sm.fc-prev-button, .note-editor .btn-orange-light-1.note-btn.btn-sm.fc-next-button, .note-editor .btn-orange-light-1.note-btn.btn-sm.fc-today-button, .dt-buttons .btn-outline.btn-orange-light-1.dt-button, .dt-buttons ul.wysihtml5-toolbar a.btn-orange-light-1.dt-button.btn, ul.wysihtml5-toolbar .dt-buttons a.btn-orange-light-1.dt-button.btn, .dt-buttons .note-editor .wizard > .actions a.btn-orange-light-1.dt-button.note-btn, .note-editor .wizard > .actions .dt-buttons a.btn-orange-light-1.dt-button.note-btn, .dt-buttons .wizard > .actions .note-editor a.btn-orange-light-1.dt-button.note-btn, .wizard > .actions .note-editor .dt-buttons a.btn-orange-light-1.dt-button.note-btn, .dt-buttons .tablesaw-sortable th.tablesaw-sortable-head button.btn-orange-light-1.dt-button, .tablesaw-sortable th.tablesaw-sortable-head .dt-buttons button.btn-orange-light-1.dt-button, .dt-buttons button.btn-orange-light-1.dt-button.fc-agendaDay-button.fc-state-default.fc-corner-right,
@@ -3077,7 +3077,7 @@ button.fc-agendaWeek-button, .fc-prev-button, .fc-next-button, .fc-today-button 
           font-size: 18px;
           width: 18px;
           top: 3px;
-          color: #ff6028;
+          color: #a90a30;
           display: inline-block;
           position: relative; }
         .fixed-sidebar-left .side-nav li a .pull-right i {
@@ -3376,9 +3376,9 @@ a#toggle_mobile_nav {
     .wrapper.theme-5-active .navbar.navbar-inverse.navbar-fixed-top .nav-header .logo-wrap .brand-text {
       color: #fff; }
   .wrapper.navbar-top-orange .navbar.navbar-inverse.navbar-fixed-top {
-    background: #ff6028; }
+    background: #a90a30; }
     .wrapper.navbar-top-orange .navbar.navbar-inverse.navbar-fixed-top .mobile-only-brand {
-      background: #ff6028; }
+      background: #a90a30; }
     .wrapper.navbar-top-orange .navbar.navbar-inverse.navbar-fixed-top .nav.top-nav > li > a .top-nav-icon-badge,
     .wrapper.navbar-top-orange .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn {
       background: #0092ee; }
@@ -3530,7 +3530,7 @@ a#toggle_mobile_nav {
           width: 65px;
           text-align: center;
           padding-top: 9px;
-          background: #ff6028; }
+          background: #a90a30; }
           .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > .btn, .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .fixed-sidebar-left .side-nav > li.input-group-btn > a.documentation-btn, .fixed-sidebar-left .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .side-nav > li.input-group-btn > a.documentation-btn, .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .wizard > .actions .disabled .input-group-btn > a, .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .wizard > .actions .input-group-btn > a, .wizard > .actions .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > a, .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .dt-buttons .input-group-btn > .dt-button, .dt-buttons .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > .dt-button, .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .tablesaw-sortable th.tablesaw-sortable-head .input-group-btn > button, .tablesaw-sortable th.tablesaw-sortable-head .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > button, .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .sweet-alert .input-group-btn > button, .sweet-alert .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > button, .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .owl-theme .owl-nav .input-group-btn > [class*="owl-"], .owl-theme .owl-nav .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > [class*="owl-"], .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > button.fc-agendaDay-button.fc-state-default.fc-corner-right,
           .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > button.fc-month-button.fc-state-default.fc-corner-left,
           .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > button.fc-agendaWeek-button, .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > .fc-prev-button, .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > .fc-next-button, .navbar.navbar-inverse.navbar-fixed-top .top-nav-search .input-group .input-group-btn > .fc-today-button {
@@ -3727,7 +3727,7 @@ a#toggle_mobile_nav {
         font-size: 23px;
         vertical-align: middle; }
       .navbar.navbar-inverse.navbar-fixed-top .nav.top-nav > li > a .top-nav-icon-badge {
-        background: #ff6028;
+        background: #a90a30;
         border-radius: 2px;
         color: #fff;
         font-size: 12px;
@@ -4328,7 +4328,7 @@ div.colorpicker {
     display: table-cell;
     background: #eee; }
     .wizard .steps ul > li.done {
-      background: #ff6028; }
+      background: #a90a30; }
     .wizard .steps ul > li.current {
       background: #dd3f08 !important; }
     .wizard .steps ul > li > a {
@@ -4435,14 +4435,14 @@ div.colorpicker {
 
 .product-detail-wrap .product-price {
   font-size: 18px;
-  color: #ff6028; }
+  color: #a90a30; }
 .product-detail-wrap .bootstrap-touchspin {
   float: left;
   margin-right: 15px;
   width: 70px; }
 
 .product-rating a {
-  color: #ff6028;
+  color: #a90a30;
   margin-right: 5px; }
 
 /*Product Cart*/
@@ -4615,8 +4615,8 @@ ul.wysihtml5-toolbar a.btn.wysihtml5-command-active, ul.wysihtml5-toolbar .fixed
     background: rgba(33, 33, 33, 0.05);
     border-bottom: 1px solid #eee; }
     .accordion-struct.panel-group .panel .panel-heading.activestate {
-      background: #ff6028;
-      border-bottom: 1px solid #ff6028; }
+      background: #a90a30;
+      border-bottom: 1px solid #a90a30; }
       .accordion-struct.panel-group .panel .panel-heading.activestate a {
         color: #fff; }
     .accordion-struct.panel-group .panel .panel-heading a {
@@ -4645,7 +4645,7 @@ ul.wysihtml5-toolbar a.btn.wysihtml5-command-active, ul.wysihtml5-toolbar .fixed
 .accordion-struct.accordion-style-1 .icon-ac-wrap {
   display: inline;
   position: relative;
-  color: #ff6028; }
+  color: #a90a30; }
   .accordion-struct.accordion-style-1 .icon-ac-wrap .minus-ac {
     position: absolute;
     left: 0;
@@ -4760,15 +4760,15 @@ ul.wysihtml5-toolbar a.btn.wysihtml5-command-active, ul.wysihtml5-toolbar .fixed
   border: none;
   border-bottom: 3px solid transparent; }
 .custom-tab-1 .nav-tabs > li.active > a {
-  border-bottom: 3px solid #ff6028; }
+  border-bottom: 3px solid #a90a30; }
 .custom-tab-1.vertical-tab .ver-nav-tab > li {
   background: transparent !important; }
   .custom-tab-1.vertical-tab .ver-nav-tab > li.active > a {
     border-bottom: none;
-    border-right: 3px solid #ff6028; }
+    border-right: 3px solid #a90a30; }
 .custom-tab-1.vertical-tab.vertical-tab-reverse > li.active > a {
   border-right: none;
-  border-left: 3px solid #ff6028; }
+  border-left: 3px solid #a90a30; }
 
 .custom-tab-2 .nav-tabs {
   border: none; }
@@ -4776,12 +4776,12 @@ ul.wysihtml5-toolbar a.btn.wysihtml5-command-active, ul.wysihtml5-toolbar .fixed
     background: transparent;
     border-radius: 0; }
     .custom-tab-2 .nav-tabs > li > a:active, .custom-tab-2 .nav-tabs > li > a:focus, .custom-tab-2 .nav-tabs > li > a:hover {
-      color: #ff6028; }
+      color: #a90a30; }
   .custom-tab-2 .nav-tabs > li.active > a, .custom-tab-2 .nav-tabs > li.open > a {
-    color: #ff6028;
+    color: #a90a30;
     background: #f2f2f2; }
     .custom-tab-2 .nav-tabs > li.active > a:active, .custom-tab-2 .nav-tabs > li.active > a:focus, .custom-tab-2 .nav-tabs > li.active > a:hover, .custom-tab-2 .nav-tabs > li.open > a:active, .custom-tab-2 .nav-tabs > li.open > a:focus, .custom-tab-2 .nav-tabs > li.open > a:hover {
-      color: #ff6028;
+      color: #a90a30;
       background: #f2f2f2; }
   .custom-tab-2 .nav-tabs > li:first-child > a, .custom-tab-2 .nav-tabs > li:last-child > a {
     border-radius: 0; }
@@ -4802,13 +4802,13 @@ ul.wysihtml5-toolbar a.btn.wysihtml5-command-active, ul.wysihtml5-toolbar .fixed
     border-radius: 0;
     text-transform: capitalize; }
     .nav-pills > li > a:active, .nav-pills > li > a:focus, .nav-pills > li > a:hover {
-      background: #ff6028;
+      background: #a90a30;
       color: #fff; }
   .nav-pills > li.active > a, .nav-pills > li.open > a {
-    background: #ff6028;
+    background: #a90a30;
     color: #fff; }
     .nav-pills > li.active > a:active, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover, .nav-pills > li.open > a:active, .nav-pills > li.open > a:focus, .nav-pills > li.open > a:hover {
-      background: #ff6028;
+      background: #a90a30;
       color: #fff; }
   .nav-pills > li:last-child {
     margin-right: 0; }
@@ -4844,14 +4844,14 @@ ul.wysihtml5-toolbar a.btn.wysihtml5-command-active, ul.wysihtml5-toolbar .fixed
   border: 1px solid #f7f7f9;
   color: #727272; }
   .nav-pills-outline.nav-pills > li > a:hover, .nav-pills-outline.nav-pills > li > a:active, .nav-pills-outline.nav-pills > li > a:focus {
-    border-color: #ff6028;
+    border-color: #a90a30;
     color: #272B34; }
 .nav-pills-outline.nav-pills > li.active > a {
   background-color: transparent !important;
-  border: 1px solid #ff6028;
+  border: 1px solid #a90a30;
   color: #272B34; }
   .nav-pills-outline.nav-pills > li.active > a:hover, .nav-pills-outline.nav-pills > li.active > a:active, .nav-pills-outline.nav-pills > li.active > a:focus {
-    border: 1px solid #ff6028;
+    border: 1px solid #a90a30;
     color: #272B34; }
 
 /*Table*/
@@ -4909,7 +4909,7 @@ ul.wysihtml5-toolbar a.btn.wysihtml5-command-active, ul.wysihtml5-toolbar .fixed
 .color-bg-table .table > caption + thead > tr:first-child > td, .color-bg-table .jsgrid-table > caption + thead > tr:first-child > td, .color-bg-table .table >
 caption + thead > tr:first-child > th, .color-bg-table .jsgrid-table >
 caption + thead > tr:first-child > th, .color-bg-table .table > colgroup + thead > tr:first-child > td, .color-bg-table .jsgrid-table > colgroup + thead > tr:first-child > td, .color-bg-table .table > colgroup + thead > tr:first-child > th, .color-bg-table .jsgrid-table > colgroup + thead > tr:first-child > th, .color-bg-table .table > thead:first-child > tr:first-child > td, .color-bg-table .jsgrid-table > thead:first-child > tr:first-child > td, .color-bg-table .table > thead:first-child > tr:first-child > th, .color-bg-table .jsgrid-table > thead:first-child > tr:first-child > th {
-  background: #ff6028; }
+  background: #a90a30; }
 .color-bg-table .table > thead > tr > th, .color-bg-table .jsgrid-table > thead > tr > th {
   color: #fff; }
 
@@ -4978,8 +4978,8 @@ table.dataTable > caption + thead > tr:first-child > td, table.dataTable > capti
   height: 25px; }
 
 .dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover, .dataTables_wrapper .dataTables_paginate .paginate_button:hover, .dataTables_wrapper .dataTables_paginate .paginate_button:active, .dataTables_wrapper .dataTables_paginate .paginate_button:focus {
-  background: #ff6028;
-  border-color: #ff6028;
+  background: #a90a30;
+  border-color: #a90a30;
   color: #fff !important;
   box-shadow: none;
   border-radius: 0; }
@@ -5029,11 +5029,11 @@ table.dataTable thead .sorting_desc {
       margin-right: 0; }
 
 table.dataTable.dtr-inline.collapsed > tbody > tr > td:first-child::before, table.dataTable.dtr-inline.collapsed > tbody > tr > th:first-child::before {
-  background-color: #ff6028;
+  background-color: #a90a30;
   box-shadow: none; }
 
 table.dataTable.dtr-inline.collapsed > tbody > tr.parent > td:first-child::before, table.dataTable.dtr-inline.collapsed > tbody > tr.parent > th:first-child::before {
-  background-color: #ff6028;
+  background-color: #a90a30;
   box-shadow: none; }
 
 table.footable > tbody > tr > td.footable-sortable, table.footable > tbody > tr > th.footable-sortable, table.footable > tfoot > tr > td.footable-sortable, table.footable > tfoot > tr > th.footable-sortable, table.footable > thead > tr > td.footable-sortable, table.footable > thead > tr > th.footable-sortable {
@@ -5152,8 +5152,8 @@ table.footable > tbody > tr.footable-empty > td {
   text-align: left; }
 
 .jsgrid-pager-current-page, .jsgrid-pager-page a:hover, .jsgrid-pager-page a:active, .jsgrid-pager-page a:focus {
-  background: #ff6028;
-  border: 1px solid #ff6028;
+  background: #a90a30;
+  border: 1px solid #a90a30;
   color: #fff;
   font-weight: 400; }
 
@@ -5310,7 +5310,7 @@ button.btn-small.btn-select.fc-agendaWeek-button, .btn-small.btn-select.fc-prev-
   stroke-width: 7px; }
 
 .ct-series-a .ct-bar, .ct-series-a .ct-line, .ct-series-a .ct-point, .ct-series-a .ct-slice-donut {
-  stroke: #ff6028; }
+  stroke: #a90a30; }
 
 .ct-series-b .ct-bar, .ct-series-b .ct-line, .ct-series-b .ct-point, .ct-series-b .ct-slice-donut {
   stroke: #ff936d; }
@@ -5328,7 +5328,7 @@ button.btn-small.btn-select.fc-agendaWeek-button, .btn-small.btn-select.fc-prev-
   fill: #ffaf93; }
 
 .ct-series-b .ct-area, .ct-series-b .ct-slice-pie {
-  fill: #ff6028; }
+  fill: #a90a30; }
 
 .ct-series-d .ct-area, .ct-series-d .ct-slice-pie {
   fill: #e8470f; }
@@ -5480,7 +5480,7 @@ button.btn-small.btn-select.fc-agendaWeek-button, .btn-small.btn-select.fc-prev-
     height: 42px;
     padding: 10px 12px; }
     .treeview .list-group .list-group-item.node-selected {
-      background: #ff6028 !important; }
+      background: #a90a30 !important; }
     .treeview .list-group .list-group-item:hover {
       background: #f7f7f9; }
     .treeview .list-group .list-group-item:first-child, .treeview .list-group .list-group-item:last-child {
@@ -5860,7 +5860,7 @@ button.btn-small.btn-select.fc-agendaWeek-button, .btn-small.btn-select.fc-prev-
   margin-right: 10px;
   text-transform: uppercase; }
   .file-control.active {
-    color: #ff6028; }
+    color: #a90a30; }
 
 .file-name small {
   color: #727272; }
@@ -5930,8 +5930,8 @@ a.compose-mail {
 .carousel-indicators {
   z-index: 1; }
   .carousel-indicators li {
-    border-color: #ff6028;
-    background: #ff6028;
+    border-color: #a90a30;
+    background: #a90a30;
     opacity: .6; }
     .carousel-indicators li:hover {
       background: #fff; }
@@ -5947,23 +5947,23 @@ a.compose-mail {
 .text-slider .carousel-indicators li {
   border: none; }
   .text-slider .carousel-indicators li:hover {
-    background: #ff6028;
+    background: #a90a30;
     opacity: 1; }
 .text-slider .carousel-indicators li.active {
   border: none;
-  background: #ff6028; }
+  background: #a90a30; }
 
 .owl-theme .owl-dots .owl-dot span {
   height: 8px;
   margin: 5px 3px;
   width: 8px;
-  background: #ff6028;
+  background: #a90a30;
   opacity: .6; }
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
   opacity: 1;
-  background: #ff6028; }
+  background: #a90a30; }
 
 /*Testimonial slider*/
 .testimonial-slider-wrap .carousel-indicators {
@@ -6127,7 +6127,7 @@ a.compose-mail {
     text-transform: uppercase;
     font-size: 11px; }
     #filters li a.active, #filters li a:active, #filters li a:hover, #filters li a:focus {
-      background: #ff6028;
+      background: #a90a30;
       color: #fff; }
 #filters:last-child {
   margin-right: 0; }
@@ -6250,7 +6250,7 @@ a.compose-mail {
     font-size: 30px;
     margin-bottom: 15px;
     margin-top: 20px;
-    color: #ff6028; }
+    color: #a90a30; }
   .panel-pricing .panel-heading .panel-price {
     color: #272B34;
     font-size: 38px;
@@ -6318,7 +6318,7 @@ a.compose-mail {
   .forcast-days > li:last-child {
     margin-right: 0; }
   .forcast-days > li span.forcast-high-deg {
-    color: #ff6028; }
+    color: #a90a30; }
   .forcast-days > li img {
     width: 50px;
     margin: 0 auto; }
@@ -6414,20 +6414,20 @@ a.compose-mail {
 .pagination > li > a, .pagination > li > span {
   border-color: #eee;
   border-radius: 0 !important;
-  color: #ff6028; }
+  color: #a90a30; }
   .pagination > li > a:hover, .pagination > li > a:focus, .pagination > li > a:active, .pagination > li > span:hover, .pagination > li > span:focus, .pagination > li > span:active {
     border-color: #eee;
     background-color: #eee; }
 .pagination > li.active > a, .pagination > li.active > span {
-  background: #ff6028;
+  background: #a90a30;
   border-color: #eee; }
   .pagination > li.active > a:hover, .pagination > li.active > a:focus, .pagination > li.active > a:active, .pagination > li.active > span:hover, .pagination > li.active > span:focus, .pagination > li.active > span:active {
-    background: #ff6028;
+    background: #a90a30;
     border-color: #eee; }
 
 .pagination > .disabled > a, .pagination > .disabled > a:focus, .pagination > .disabled > a:hover, .pagination > .disabled > span, .pagination > .disabled > span:focus, .pagination > .disabled > span:hover {
   border-color: #eee;
-  color: #ff6028; }
+  color: #a90a30; }
 
 .pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover {
   color: #727272; }
@@ -6575,7 +6575,7 @@ a.compose-mail {
   background: #ffbf36; }
 
 .progress-bar-orange {
-  background: #ff6028; }
+  background: #a90a30; }
 
 .progress-vertical {
   min-height: 250px;
@@ -6830,7 +6830,7 @@ a.compose-mail {
     background: #272B34;
     border-radius: 0; }
   .recent-chat-wrap .chat-content .self .self-msg-wrap .msg {
-    background: #ff6028;
+    background: #a90a30;
     margin-left: 100px;
     border-radius: 0; }
 
@@ -7189,7 +7189,7 @@ button.fc-agendaWeek-button {
   border-radius: 0 !important; }
 
 .fc-unthemed .fc-today {
-  background: #ff6028;
+  background: #a90a30;
   color: #fff; }
 
 .fc-event, .fc-event:hover, .ui-widget .fc-event {
@@ -7415,7 +7415,7 @@ button.fc-agendaWeek-button {
 .review-box hr {
   margin: 0; }
 .review-box .per-rating a {
-  color: #ff6028;
+  color: #a90a30;
   margin-right: 4px;
   font-size: 17px; }
 .review-box .per-rating span {
@@ -7502,7 +7502,7 @@ ul.inbox-nav li a:hover, ul.inbox-nav li.active a, ul.inbox-nav li a:focus {
 
 .table-inbox tr td .zmdi-star.inbox-started,
 .table-inbox tr td .zmdi-star:hover {
-  color: #ff6028; }
+  color: #a90a30; }
 
 .table-inbox tr.unread td {
   color: #272B34;
