@@ -1,0 +1,80 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<title>{% block title %} Gestion des Alias{% endblock %}</title>
+	<meta name="description" content="Admintres is a Dashboard & Admin Site Responsive Template by hencework." />
+	<meta name="keywords" content="admin, admin dashboard, admin template, cms, crm, Admintres Admin, Admintresadmin, premium admin templates, responsive admin, sass, panel, software, ui, visualization, web app, application" />
+	<meta name="author" content="hencework"/>
+	{% load static %}
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+	
+	<!-- bootstrap-select CSS -->
+	<link href="{% static 'alias/css/bootstrap-select.min.css' %}" rel="stylesheet" type="text/css"/>	
+	
+	<!-- Custom CSS -->
+	<link href="{% static 'alias/css/style.css' %}" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<!-- Preloader -->
+	<div class="preloader-it">
+		<div class="la-anim-1"></div>
+	</div>
+	<!-- /Preloader -->
+    <div class="wrapper theme-2-active navbar-top-light">
+		<!-- Top Menu Items -->
+			{% include 'partials/navbar.html' %}
+			<!-- /Top Menu Items -->
+			
+			<!-- Left Sidebar Menu -->
+			{% include 'partials/leftmenu.html' %}
+			<!-- /Left Sidebar Menu -->
+			
+
+
+        <!-- Main Content -->
+		  <div class="page-wrapper">
+            <div class="container pt-30">
+				{% block content %}{% endblock %} 
+				<!-- /Row -->
+			</div>
+			
+			<!-- Footer -->
+			{% include 'partials/footer.html' %}
+			<!-- /Footer -->
+			
+		</div>
+        <!-- /Main Content -->
+
+    </div>
+    <!-- /#wrapper -->
+	
+	<!-- JavaScript -->
+	
+    <!-- jQuery -->
+    <script src="{% static 'alias/js/jquery.min.js' %}"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{% static 'alias/js/bootstrap.min.js' %}"></script>
+ 	
+	<!-- Fancy Dropdown JS -->
+	<script src="{% static 'alias/js/dropdown-bootstrap-extended.js' %}"></script>
+	
+	<!-- Sparkline JavaScript -->
+	<script src="{% static 'alias/js/jquery.sparkline.min.js' %}"></script>
+	
+	<!-- Bootstrap Select JavaScript -->
+	<script src="{% static 'alias/js/bootstrap-select.min.js' %}"></script>
+	
+	<!-- Init JavaScript -->
+	<script src="{% static 'alias/js/init.js' %}"></script>
+	<script src="{% static 'alias/js/dashboard2-data.js' %}"></script>
+</body>
+
+</html>
